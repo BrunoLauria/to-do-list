@@ -11,10 +11,8 @@
 <img src="https://github.com/BrunoLauria/to-do-list/blob/main/front/src/assets/img/todoimage.png" alt="screenshot"/>
 
 
-
 ## 💻 Projeto
 
-<h2>O que é o Projeto To-Do</h2>
 <p>Uma aplicação web com back-end desenvolvido em Java + Spring Boot e front-end em Angular, que tem como intuito gerenciar tarefas inseridas por um usuário. Cada tarefa consiste de uma data para finalizar especificada pelo usuário, um título e uma descrição opcional.</p>
 
 ## 🚀 Tecnologias
